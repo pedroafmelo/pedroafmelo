@@ -2,7 +2,7 @@
 
 - 👨🏽‍🎓 I’m a Data Science for Business undergraduate, at the Federal University of Paraíba
 - 💻 I’m studying Python and SQL language
-- 📊 I’m a Business Intelligence and Business Analytics enthusiast 
+- 📊 I’m a Business Intelligence and Business Analytics enthusiast!
 
 ## Technologies and Tools
 
@@ -18,7 +18,7 @@
 
 <div>
   <a href="https://www.instagram.com/pedroafmelo/?next=%2F” target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contato@pedroaafmelo@gmail.com><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contato@pedroafmelo><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedroafmelo/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
