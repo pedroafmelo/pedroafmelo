@@ -2,7 +2,7 @@
 
 - 👨🏽‍🎓 I’m a Data Science for Business undergraduate, at the Federal University of Paraíba
 - 💻 I’m studying Python and SQL language
-- 📊 I’m a Business Intelligence and Business Analytics enthusiast!
+- 📊 I’m a Financial Market, Business Intelligence and Business Analytics enthusiast!
 
 ## Technologies and Tools
 
