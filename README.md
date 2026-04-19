@@ -2,7 +2,8 @@
 
 - 👨🏽‍🎓 I’m a Data Science for Business undergraduate, at the Federal University of Paraíba
 - 💻 I’m studying Python and SQL language
-- 📊 I’m a Financial Market, Business Intelligence and Business Analytics enthusiast!
+- 💹 I’m a Financial Market enthusiast, and that's why I'm an analyst at the Financial Markets League from UFPB,
+- 📊 I'm also a Business Intelligence and Business Analytics enthusiast!
 
 ## Technologies and Tools
 
@@ -10,6 +11,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="80" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="80" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/fastapi/fastapi-original.svg" width="80" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/mongodb/mongodb-original.svg" width="80" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/docker/docker-original.svg" width="80" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/apachespark/apachespark-original-wordmark.svg" width="80" />
 </p>
 
 <div>
